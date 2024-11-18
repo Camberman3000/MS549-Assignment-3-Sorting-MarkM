@@ -3,6 +3,7 @@
    MS549
 
    Bubble Sort and Insertion Sort project
+   References: I used the sort functions from a previous project
    */
 
 #include <iostream>
